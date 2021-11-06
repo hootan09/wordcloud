@@ -9,5 +9,5 @@ $ python trumpcloud.py
 ```
 
 <p float="left">
-<img src="./content/Figure_1.png" width="30%" height="30%" alt="trumpcloud Screen">
+<img src="./content/Figure_1.png" width="100%" height="100%" alt="trumpcloud Screen">
 </p>
