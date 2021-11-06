@@ -1,0 +1,6 @@
+/tmp
+/Lib
+/Scripts
+/Incloude
+__pycache__/
+pyvenv.cfg
