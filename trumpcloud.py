@@ -14,7 +14,6 @@ if __name__ == "__main__":
     tweets = " ".join(line for line in df['text'])
 
     mask = np.array(Image.open("./content/mask.png"))
-    mask2 = Image.open("./content/mask.png")
     colors = ["#BF0A30", "#002868"]
     cmap = LinearSegmentedColormap.from_list("mycmap", colors)
 
